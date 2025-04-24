@@ -15,4 +15,10 @@ destroy a book by Id(delete function delete())
  
 The relation between book and author one to many
 the author can be have many book but the book belongs to one author
+
+#requirement 
+php =>8.2
+composer
+mysql
+
  
